@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十二緣生祥瑞經
+#+DATE: 2015-08-30 20:18:23.024936
+#+PROPERTY: JUAN 0
