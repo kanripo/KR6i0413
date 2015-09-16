@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:22.832990
+#+DATE: 2015-08-30 20:18:24.204674
 #+TITLE: 十二緣生祥瑞經
 #+PROPERTY: CBETA_ID T16n0719
 #+PROPERTY: ID KR6i0413
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 719
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0413_T_002-0847c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《十二緣生祥瑞經》卷下¶
+《十二緣生祥瑞經》卷下¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿傳法大師臣施護奉　詔譯¶
@@ -29,7 +28,7 @@
 ¶
 ¶
 
-注云：「有支順轉，積日逆流，黑白月餘，如經¶
+法云：「有支順轉，積日逆流，黑白月餘，如經¶
 廣說。」¶
 
 爾時眾會，無量人天，白世尊言：「烏鳥鳴吟，時¶

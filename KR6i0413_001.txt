@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:22.800305
+#+DATE: 2015-08-30 20:18:24.184325
 #+TITLE: 十二緣生祥瑞經
 #+PROPERTY: CBETA_ID T16n0719
 #+PROPERTY: ID KR6i0413
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 719
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0413_T_001-0845a> 
 #+PROPERTY: JUAN 1
 ¶
-No.719¶
-
- 《十二緣生祥瑞經》卷上¶
+No. 719¶
+《十二緣生祥瑞經》卷上¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿傳法大師臣施護奉　詔譯¶
@@ -71,7 +70,7 @@ No.719¶
 老死、七日生支、八日有支、九日取支、十日¶
 愛支、十一受支、十二觸支。¶
 
-「又從𡁠(仁祭反)瑟吒(二合)(三)麼洗(月)：一日觸支、二¶
+「又從[口*爾](仁祭反)瑟吒(二合)(三)麼洗(月)：一日觸支、二¶
 日六入、三日名色、四日識支、五日行支、六¶
 日無明、七日老死、八日生支、九日有支、十¶
 日取支、十一愛支、十二受支。¶
